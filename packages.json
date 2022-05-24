@@ -1,5 +1,5 @@
 {
-  "libcontaineressh": {
+  "libcontainerssh": {
     "URL": "https://github.com/containerssh/libcontainerssh",
     "MainBranch": "main"
   }
