@@ -2,5 +2,9 @@
   "libcontainerssh": {
     "URL": "https://github.com/containerssh/libcontainerssh",
     "MainBranch": "main"
+  },
+  "containerssh": {
+    "URL": "https://github.com/containerssh/containerssh",
+    "MainBranch": "main"
   }
 }
